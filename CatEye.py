@@ -1,3 +1,6 @@
+"""
+猫眼电影网爬虫
+"""
 import json
 import requests
 from requests.exceptions import RequestException

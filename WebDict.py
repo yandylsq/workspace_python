@@ -1,3 +1,4 @@
+#大转盘游戏
 import tkinter
 # 导入线程模块
 import threading
